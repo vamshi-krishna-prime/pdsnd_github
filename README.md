@@ -68,6 +68,12 @@ Analyzed the data related to bike share use in Chicago, New York City, and Washi
 + **Git Version Control**
     > Used to control and record the project files. Shared the work on GitHub profile.
 
+## Software requirements:
+To complete this project, the following software requirements apply:
+* You should have Python 3, NumPy, and pandas installed using Anaconda
+* A text editor, like Sublime or Atom.
+* A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
+
 ### Credits
 My sincere thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) program. 
 
