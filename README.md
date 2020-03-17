@@ -33,6 +33,28 @@ The Chicago and New York City files also have the following two columns:
 * Gender
 * Birth Year
 
+### Statistics Computed:
+Analyzed the data related to bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, written code to provide the following information:
+
+##### 1. Popular times of travel (i.e., occurs most often in the start time):
+* most common month
+* most common day of week
+* most common hour of day
+
+##### 2. Popular stations and trip:
+* most common start station
+* most common end station
+* most common trip from start to end (i.e., most frequent combination of start station and end station)
+
+##### 3. Trip duration:
+* total travel time
+* average travel time
+
+##### 4. User info:
+* counts of each user type
+* counts of each gender (only available for NYC and Chicago)
+* earliest, most recent, most common year of birth (only available for NYC and Chicago)
+
 ### Credits
 My sincere thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) program. 
 
