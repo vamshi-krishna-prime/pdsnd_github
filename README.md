@@ -20,6 +20,19 @@ The files (data) used to explore the project and also included in the execution 
  * [new_york_city.csv](https://www.citibikenyc.com/system-data)
  * [washington.csv](https://www.capitalbikeshare.com/system-data)
 
+### The Dataset:
+All three of the data files contain the same core six (6) columns:
+* Start Time (e.g., 2017-01-01 00:07:57)
+* End Time (e.g., 2017-01-01 00:20:53)
+* Trip Duration (in seconds - e.g., 776)
+* Start Station (e.g., Broadway & Barry Ave)
+* End Station (e.g., Sedgwick St & North Ave)
+* User Type (Subscriber or Customer)
+
+The Chicago and New York City files also have the following two columns:
+* Gender
+* Birth Year
+
 ### Credits
 My sincere thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) program. 
 
