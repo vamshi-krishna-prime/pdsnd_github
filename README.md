@@ -84,4 +84,3 @@ I also would like to acknowledge the credit to the instructors that inspired me 
  * Josh Bernhard, Data scientist at Nerd wallet
  * Derek Steer, CEO at Mode Analytics
  * Karl Krueger, Command line instructor
-
