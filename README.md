@@ -1,8 +1,8 @@
 ### Date created
 March 17th, 2020.
 
-### Project Title
-Replace the Project Title
+### Explore US Bishare Data
+![divvy](https://user-images.githubusercontent.com/49973760/76811158-8cdbb680-6816-11ea-8835-43f1e635ccda.jpg)
 
 ### Description
 Describe what your project is about and what it does
