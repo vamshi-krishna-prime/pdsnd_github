@@ -266,7 +266,6 @@ def main():
         df['Start Time'] = df['Start Time'].dt.strftime('%Y-%m-%d %H:%M:%S')
         # print(df.info()) for testing
         while raw_data == 'yes':
-            # print(df.head(5).to_dict('index')) show first 5 row as dictionary
             print(json.dumps(df.head(row).to_dict('index'), indent=1))
             raw_data = input('Would you like to see more '
                              'raw data? Enter (yes / no) : ').lower()
@@ -278,7 +277,8 @@ def main():
             print()
             print(' Python Script Terminated '.center(78, '*'))
             print()
-            break
+            break 
+
 
 
 if __name__ == "__main__":
