@@ -14,5 +14,13 @@ The files (data) used to explore the project and also included in the execution 
  * [washington.csv](https://www.capitalbikeshare.com/system-data)
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+My sincere thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) program. 
+
+I also would like to acknowledge the credit to the instructors that inspired me and guided me through out this course:
+
+ * Richard Kalehoff, Instructor
+ * Juno Lee, Curriculum lead at Udacity
+ * Josh Bernhard, Data scientist at Nerd wallet
+ * Derek Steer, CEO at Mode Analytics
+ * Karl Krueger, Command line instructor
 
