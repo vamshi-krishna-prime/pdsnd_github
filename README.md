@@ -55,6 +55,19 @@ Analyzed the data related to bike share use in Chicago, New York City, and Washi
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+### Technologies Used:
++ **Python**
+    > Used Python programming language to explore data related to bikeshare.
+
++ **Numpy and Pandas**
+    > Used to explore and manipulate DataFrames and performed statistical analysis.
+
++ **Visual Studio Code**
+    > Used to make exploratory analysis and write appropriate SQL queries to answer the posed questions.
+
++ **Git Version Control**
+    > Used to control and record the project files. Shared the work on GitHub profile.
+
 ### Credits
 My sincere thanks to the [Udacity](https://www.udacity.com/) platform for providing the [Programming for Data Science with Python Nanodegree](https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104) program. 
 
