@@ -277,8 +277,7 @@ def main():
             print()
             print(' Python Script Terminated '.center(78, '*'))
             print()
-            break 
-
+            break
 
 
 if __name__ == "__main__":
